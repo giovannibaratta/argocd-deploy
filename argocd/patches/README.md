@@ -1,0 +1,1 @@
+This folder contains all the patches that should be shared and applied to multiple applications.

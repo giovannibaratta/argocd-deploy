@@ -5,6 +5,8 @@ namePrefix: free-customer-
 
 resources:
 - namespace.yaml
+# This repo contains the app manifests that should be deployed. They are the base
+# layer on which the patches will be applied. They are managed by the developer team.
 - https://github.com/giovannibaratta/argocd-deploy//apps-manifests/awesome-app
 
 patches:

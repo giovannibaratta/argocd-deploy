@@ -1,0 +1,1 @@
+This is an example of an application that can be deployed in a Kubernetes cluster.
